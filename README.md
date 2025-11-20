@@ -6,7 +6,7 @@
 * Twitch - 👎
 * AWS S3 - 👎
 * Cloudflare - 👎
-* AkAM - 👎
+* AKAM GHost - 👎
 * META, Facebook - 👎
 * Silicon Valley, Tiktok, Temu - 👎
 * INTU, Credit Karma - 👎
