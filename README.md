@@ -22,6 +22,7 @@
 * Online Banking - 👎
 * Wagie, Slaving - 👎
 * Friends, Relationships, Family - 👎
+* Taxation without representation - 👎
 
 <hr>
 
