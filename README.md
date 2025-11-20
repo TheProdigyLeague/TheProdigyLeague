@@ -1,4 +1,5 @@
 * Windows 10 & 11 - 👎
+* Steam - 👎
 * Microsoft Azure, FoxxConn, Seagate - 👎
 * LinkedIn - 👎
 * Discord - 👎
