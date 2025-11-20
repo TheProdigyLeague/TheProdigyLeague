@@ -1,45 +1,45 @@
-* Windows 10 & 11 - 👎
-* Steam - 👎
-* Microsoft Azure, FoxxConn, Seagate - 👎
-* LinkedIn - 👎
+* MSFT Windows 10 & 11 - 👎
+* MSFT Steam - 👎
+* MSFT Azure, FoxxConn, Seagate - 👎
+* MSFT LinkedIn - 👎
 * Discord - 👎
-* Twitch - 👎
+* AMZN, Twitch - 👎
 * AWS S3 - 👎
-* Cloudflare - 👎
+* NET, Cloudflare - 👎
 * AKAM GHost - 👎
 * META, Facebook - 👎
-* Silicon Valley, Tiktok, Temu - 👎
+* BIDU, Silicon Valley, Tiktok, Temu - 👎
 * INTU, Credit Karma - 👎
 * DASH, Survey Junkie - 👎
-* Internet echo-chambers, social credit - 👎
-* Social Security - 👎
-* Government Censorship - 👎
-* Blue collar, lower-middle class workman - 👎
-* School, College Universities - 👎
+* 🇨🇭 CERN, Internet echo-chambers, social credit systems - 👎
+* 🇺🇸 Social Security - 👎
+* 🇻🇮 Government Censorship - 👎
+* 👷🏽 Blue collar, lower-middle class workman - 👎
+* 🏫 School, College Universities - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
 * Shadow Tech - 👎
 * Moores Law - 👎
-* Online Banking - 👎
-* Wagie, Slaving - 👎
+* 💸 Online Banking - 👎
+* 👔 Wagie, Slaving - 👎
 * Friends, Relationships, Family - 👎
-* Taxation without representation - 👎
+* 🪙 Taxation without representation - 👎
 
 <hr>
 
-* Cutthroat - 👍
-* Equity - 👍
-* Partnerships - 👍
+* 🗡️ Cutthroat - 👍
+* 📈 Equity - 👍
+* 🕴🏽Partnerships - 👍
 * Crypto - 👍
 * Loner - 👍
 * Main Character - 👍
 * Free and Open Source - 👍
-* Basic Healthcare - 👍
+* 🏥 Basic Healthcare - 👍
 * Liveable Wages - 👍
-* Basic housing - 👍
-* Corporate accountability - 👍
+* 🛖 Basic housing - 👍
+* 🏢 Corporate accountability - 👍
 * Government Social Safety Nets - 👍
-* Affordable Education - 👍
-* Web3, Dead Internet - 👍
+* 🪃 Affordable Education - 👍
+* 🧑🏽‍💻 Web3, Dead Internet - 👍
 * 🤖, 🎮 - 👍
 * Poes Law - 👍
 * Net Nuetrality - 👍
