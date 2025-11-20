@@ -16,7 +16,7 @@
 * Government Censorship - 👎
 * Blue collar, lower-middle class workman - 👎
 * School, College Universities - 👎
-* 🇨🇳, 🇯🇵, 🇰🇵, - 👎
+* 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
 * Shadow Tech - 👎
 * Moores Law - 👎
 * Online Banking - 👎
