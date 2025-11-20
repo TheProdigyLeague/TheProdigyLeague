@@ -18,6 +18,7 @@
 * Shadow Tech - 👎
 * Moores Law - 👎
 <hr>
+
 * Free and Open Source - 👍
 * Basic Healthcare - 👍
 * Liveable Wages - 👍
@@ -33,6 +34,7 @@
 * Social Anarchy - 👍
 * Jails for CEO's - 👍
 * Jails for Politicians - 👍
+
 
 https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing
 2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion
