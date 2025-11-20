@@ -1,3 +1,14 @@
+Windows 10 & 11 - 👎
+Microsoft Azure - 👎
+LinkedIn - 👎
+Discord - 👎
+Twitch - 👎
+AWS S3 - 👎
+Cloudflare - 👎
+AkAM - 👎
+META, Facebook - 👎
+Tiktok - 👎
+
 https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing
 2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion
 
