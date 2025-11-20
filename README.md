@@ -10,6 +10,7 @@
 * META, Facebook - 👎
 * Silicon Valley, Tiktok, Temu - 👎
 * INTU, Credit Karma - 👎
+* DASH, Survey Junkie - 👎
 * Internet echo-chambers, social credit - 👎
 * Social Security - 👎
 * Government Censorship - 👎
@@ -18,8 +19,18 @@
 * 🇨🇳, 🇯🇵, 🇰🇵, - 👎
 * Shadow Tech - 👎
 * Moores Law - 👎
+* Online Banking - 👎
+* Wagie, Slaving - 👎
+* Friends, Relationships, Family - 👎
+
 <hr>
 
+* Cutthroat - 👍
+* Equity - 👍
+* Partnerships - 👍
+* Crypto - 👍
+* Loner - 👍
+* Main Character - 👍
 * Free and Open Source - 👍
 * Basic Healthcare - 👍
 * Liveable Wages - 👍
@@ -27,14 +38,15 @@
 * Corporate accountability - 👍
 * Government Social Safety Nets - 👍
 * Affordable Education - 👍
-* Basic, reliable internet - 👍
-* Artifical Intelligence (Accessibility) - 👍
+* Web3, Dead Internet - 👍
+* 🤖, 🎮 - 👍
 * Poes Law - 👍
 * Net Nuetrality - 👍
 * No Moral Absolutes - 👍
 * Social Anarchy - 👍
 * Jails for CEO's - 👍
 * Jails for Politicians - 👍
+* Nonprofits - 👍
 
 
 https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing
