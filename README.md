@@ -13,7 +13,7 @@
 * 👲 INTU, 💳 Credit Karma - 👎
 * 🚗 DASH, ✓ Survey Junkie - 👎
 * 🇨🇭 CERN, Debtors Prisons - 👎
-* 🇺🇸 Social Security - 👎
+* 🇺🇸 Consumer States - 👎
 * 🇻🇮 Government Contracts \\ Censorship - 👎
 * 👷🏽 Blue collar, labor camps - 👎
 * 🏫 School, College Universities - 👎
