@@ -1,53 +1,71 @@
-* MSFT Windows 10 & 11 - 👎
-* MSFT Steam - 👎
-* MSFT Azure, FoxxConn, Seagate - 👎
-* MSFT LinkedIn - 👎
-* Discord - 👎
-* AMZN, Twitch - 👎
-* AWS S3 - 👎
-* NET, Cloudflare - 👎
-* AKAM GHost - 👎
-* META, Facebook - 👎
-* BIDU, Silicon Valley, Tiktok, Temu - 👎
-* INTU, Credit Karma - 👎
-* DASH, Survey Junkie - 👎
-* 🇨🇭 CERN, Internet echo-chambers, social credit systems - 👎
+* 🖱️ MSFT Windows 10 & 11 - 👎
+* 🎲 MSFT Steam - 👎
+* 💾 MSFT Azure, FoxxConn, Seagate - 👎
+* 🗃️ MSFT LinkedIn - 👎
+* 🕹️ Discord.gg, Steam.store - 👎
+* 💱 AMZN, Twitch - 👎
+* 🛜 AWS S3 - 👎
+* 🛜 NET, Cloudflare - 👎
+* 🛜 AKAM GHost - 👎
+* 🖥️ META, Facebook - 👎
+* 💴 BIDU,☎️ Silicon Valley, 📱 Tiktok, Temu, Fintech - 👎
+* 🏢 Fortune 500 Venture Capital, Enterprise Hedge Funds - 👎
+* 👲 INTU, 💳 Credit Karma - 👎
+* 🚗 DASH, ✓ Survey Junkie - 👎
+* 🇨🇭 CERN, Debtors Prisons - 👎
 * 🇺🇸 Social Security - 👎
-* 🇻🇮 Government Censorship - 👎
-* 👷🏽 Blue collar, lower-middle class workman - 👎
+* 🇻🇮 Government Contracts \\ Censorship - 👎
+* 👷🏽 Blue collar, labor camps - 👎
 * 🏫 School, College Universities - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
-* Shadow Tech - 👎
-* Moores Law - 👎
+* 🎰 Shadow Tech - 👎
+* 🏭 Moores Law - 👎
 * 💸 Online Banking - 👎
 * 👔 Wagie, Slaving - 👎
-* Friends, Relationships, Family - 👎
-* 🪙 Taxation without representation - 👎
+* 👥 Friends, Relationships, Family - 👎
+* 💲 Taxation without representation - 👎
+* 🌝 RDDT - 👎
+* 💘 Dating apps - 👎
+* 🚓 Prison system - 👎
+* 👹 Loud, Hectic, Chaotic Evil - 👎
+* 🏘️ Large Crowds - 👎
+* 🏦 Banks - 👎
+* 😈 Legal Crime - 👎
+* 🪪 Private property, private business, private jets ✈️, private yachts ⛴️, private islands 🏝️ - 👎
+* 🏚️ Section 8 - 👎
+* ⛽ "If you just work hard you will succeed" - 👎
 
 <hr>
 
-* 🗡️ Cutthroat - 👍
+* 🔪 Cutthroat - 👍
 * 📈 Equity - 👍
 * 🕴🏽Partnerships - 👍
-* Crypto - 👍
-* Loner - 👍
-* Main Character - 👍
-* Free and Open Source - 👍
+* 🪙 Crypto - 👍
+* 👤 Loner - 👍
+* ☠️ Main Character - 👍
+* 📞 Free and Open Source - 👍
 * 🏥 Basic Healthcare - 👍
-* Liveable Wages - 👍
-* 🛖 Basic housing - 👍
+* 💵 Liveable Wages - 👍
+* 🛖 Basic food, housing - 👍
 * 🏢 Corporate accountability - 👍
-* Government Social Safety Nets - 👍
+* 🎖️ Government Social Safety Nets - 👍
 * 🪃 Affordable Education - 👍
-* 🧑🏽‍💻 Web3, Dead Internet - 👍
-* 🤖, 🎮 - 👍
-* Poes Law - 👍
-* Net Nuetrality - 👍
-* No Moral Absolutes - 👍
-* Social Anarchy - 👍
-* Jails for CEO's - 👍
-* Jails for Politicians - 👍
-* Nonprofits - 👍
+* 🧑🏽‍💻 Web3, Dead Internet, AI - 👍
+* 🎮 E-sports, MLG - 👍
+* 🗣️ Poes Law - 👍
+* 🤖 Net Nuetrality - 👍
+* 💎 No Moral Absolutes - 👍
+* 🏴 Social Anarchy - 👍
+* ⛓️‍💥 Jails for CEO's - 👍
+* 👮 Jails for Politicians - 👍
+* 💰 Nonprofits - 👍
+* 🔤 Blockchain - 👍
+* 🗡️ MMORPGs, MOBAs - 👍
+* 🚖 Long Live Scam$ - 👍
+* 📚 Autodidact Autonomy, bookworm - 👍
+* 🤫 INTJ, Libertarian-Left, Progressive - 👍
+* 🌚 Circadian Rhythm - 👍
+* 🧾 ICESCR Arts., 7, 8, 11, 25, UDHR Arts., 3, 21, 22, 23,- 👍
 
 
 https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing
