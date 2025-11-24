@@ -68,8 +68,8 @@
 * 🧾 ICESCR Arts., 7, 8, 11, 25, UDHR Arts., 3, 21, 22, 23,- 👍
 
 
-https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing
-2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion
+[Data Points](https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing)
+[Proxy Servers](2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion)
 
 
 <img width="400" height="600" alt="1337k1dd13" src="https://github.com/user-attachments/assets/96b4beae-f4d2-4f94-88b6-e351e4359322" />
