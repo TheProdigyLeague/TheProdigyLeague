@@ -18,7 +18,7 @@
 * 👷🏽 Blue collar, labor camps - 👎
 * 🏫 School, College Universities - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
-* 🎰 Shadow Tech - 👎
+* 🎰 Shadow IT - 👎
 * 🏭 Moores Law, Positive Law - 👎
 * 💸 Online Banking - 👎
 * 👔 Wagie, Slaving - 👎
