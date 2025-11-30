@@ -19,7 +19,7 @@
 * 🏫 School, College Universities - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
 * 🎰 Shadow Tech - 👎
-* 🏭 Moores Law - 👎
+* 🏭 Moores Law, Positive Law - 👎
 * 💸 Online Banking - 👎
 * 👔 Wagie, Slaving - 👎
 * 👥 Friends, Relationships, Family - 👎
@@ -29,10 +29,10 @@
 * 🚓 Prison system - 👎
 * 👹 Loud, Hectic, Chaotic Evil - 👎
 * 🏘️ Large Crowds - 👎
-* 🏦 Banks - 👎
+* 🏦 Banks, - 👎
 * 😈 Legal Crime - 👎
 * 🪪 Private property, private business, private jets ✈️, private yachts ⛴️, private islands 🏝️ - 👎
-* 🏚️ Section 8 - 👎
+* 🏚️ Section 8,230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
 
 <hr>
@@ -52,7 +52,7 @@
 * 🪃 Affordable Education - 👍
 * 🧑🏽‍💻 Web3, Dead Internet, AI - 👍
 * 🎮 E-sports, MLG - 👍
-* 🗣️ Poes Law - 👍
+* 🗣️ Poes Law, Natural Law - 👍
 * 🤖 Net Nuetrality - 👍
 * 💎 No Moral Absolutes - 👍
 * 🏴 Social Anarchy - 👍
