@@ -2,9 +2,9 @@
 * 🎲 MSFT Steam - 👎
 * 💾 MSFT Azure, FoxxConn, Seagate - 👎
 * 🗃️ MSFT LinkedIn - 👎
-* 🕹️ Discord.gg, Steam.store - 👎
+* 🕹️ Discord.gg, Valve, EA - 👎
 * 💱 AMZN, Twitch - 👎
-* 🛜 AWS S3 - 👎
+* 🛜 AWS S3 Bucket - 👎
 * 🛜 NET, Cloudflare - 👎
 * 🛜 AKAM GHost - 👎
 * 🖥️ META, Facebook - 👎
@@ -14,9 +14,9 @@
 * 🚗 DASH, ✓ Survey Junkie - 👎
 * 🇨🇭 CERN, Debtors Prisons - 👎
 * 🇺🇸 Consumer States - 👎
-* 🇻🇮 Government Contracts \\ Censorship - 👎
+* 🇻🇮 Gov't Contracts, Gov't Censorship - 👎
 * 👷🏽 Blue collar, labor camps - 👎
-* 🏫 School, College Universities - 👎
+* 🏫 School, Uni - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
 * 🎰 Shadow IT, Social Credit - 👎
 * 🏭 Moores Law, Positive Law - 👎
@@ -29,17 +29,17 @@
 * 🚓 Prison system - 👎
 * 👹 Loud, Hectic, Chaotic Evil - 👎
 * 🏘️ Large Crowds - 👎
-* 🏦 Banks, - 👎
+* 🏦 Banks, Institutional Investors- 👎
 * 😈 Legal Crime - 👎
-* 🪪 Private property, private business, private jets ✈️, private yachts ⛴️, private islands 🏝️ - 👎
-* 🏚️ Section 8,230 - 👎
+* 🪪 Priv't School, Priv't property, priv't business, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️ - 👎
+* 🏚️ Section 8, 230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
 
 <hr>
 
 * 🔪 Cutthroat - 👍
 * 📈 Equity, Accessibility - 👍
-* 🕴🏽Partnerships - 👍
+* 🕴🏽 Partnerships - 👍
 * 🪙 Crypto - 👍
 * 👤 Loner - 👍
 * ☠️ Main Character - 👍
@@ -48,7 +48,7 @@
 * 💵 Liveable Wages - 👍
 * 🛖 Basic food, housing - 👍
 * 🏢 Corporate accountability - 👍
-* 🎖️ Government Social Safety Nets - 👍
+* 🎖️ Gov't Social Safety Nets - 👍
 * 🪃 Affordable Education - 👍
 * 🧑🏽‍💻 Web3, Dead Internet, AI - 👍
 * 🎮 E-sports, MLG - 👍
