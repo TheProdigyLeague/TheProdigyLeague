@@ -31,7 +31,7 @@
 * 🏘️ Large Crowds - 👎
 * 🏦 Banks, Institutional Investors- 👎
 * 😈 Legal Crime - 👎
-* 🪪 Priv't School, Priv't property, priv't business, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️ - 👎
+* 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️ - 👎
 * 🏚️ Section 8, 230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
 
