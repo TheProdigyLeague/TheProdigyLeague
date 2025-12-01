@@ -18,7 +18,7 @@
 * 👷🏽 Blue collar, labor camps - 👎
 * 🏫 School, College Universities - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
-* 🎰 Shadow IT - 👎
+* 🎰 Shadow IT, Social Credit - 👎
 * 🏭 Moores Law, Positive Law - 👎
 * 💸 Online Banking - 👎
 * 👔 Wagie, Slaving - 👎
@@ -38,7 +38,7 @@
 <hr>
 
 * 🔪 Cutthroat - 👍
-* 📈 Equity - 👍
+* 📈 Equity, Accessibility - 👍
 * 🕴🏽Partnerships - 👍
 * 🪙 Crypto - 👍
 * 👤 Loner - 👍
@@ -55,7 +55,7 @@
 * 🗣️ Poes Law, Natural Law - 👍
 * 🤖 Net Nuetrality - 👍
 * 💎 No Moral Absolutes - 👍
-* 🏴 Social Anarchy - 👍
+* 🏴 Social Anarchy, Social Justice - 👍
 * ⛓️‍💥 Jails for CEO's - 👍
 * 👮 Jails for Politicians - 👍
 * 💰 Nonprofits - 👍
