@@ -71,5 +71,6 @@
 [Data Points](https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing)
 [Proxy Servers](2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion)
 
+BTC: bc1qssxkv0dc7wtxad9gn9p2hek93kkq8x2jsz4walmuhazakn8xnd9q5guyhd
 
 <img width="400" height="600" alt="1337k1dd13" src="https://github.com/user-attachments/assets/96b4beae-f4d2-4f94-88b6-e351e4359322" />
