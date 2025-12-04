@@ -34,6 +34,7 @@
 * 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️ - 👎
 * 🏚️ Section 8, 230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
+* 🎚️ Death by Powerpoint - 👎
 
 <hr>
 
@@ -49,7 +50,7 @@
 * 🛖 Basic food, housing - 👍
 * 🏢 Corporate accountability - 👍
 * 🎖️ Gov't Social Safety Nets - 👍
-* 🪃 Affordable Education - 👍
+* 🪃 Liberal Arts, Programming, DB Mngmt - 👍
 * 🧑🏽‍💻 Web3, Dead Internet, AI - 👍
 * 🎮 E-sports, MLG - 👍
 * 🗣️ Poes Law, Natural Law - 👍
