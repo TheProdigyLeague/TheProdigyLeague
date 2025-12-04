@@ -35,6 +35,7 @@
 * 🏚️ Section 8, 230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
 * 🎚️ Death by Powerpoint - 👎
+* 🥼 Requiring a doctorate and a PhD to understand how computers work - 👎
 
 <hr>
 
@@ -67,6 +68,7 @@
 * 🤫 INTJ, Libertarian-Left, Progressive - 👍
 * 🌚 Circadian Rhythm - 👍
 * 🧾 ICESCR Arts., 7, 8, 11, 25, UDHR Arts., 3, 21, 22, 23,- 👍
+* 💻 Taking apart and rebuilding computers to understand how they work - 👍
 
 
 [Data Points](https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing)
