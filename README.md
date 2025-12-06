@@ -36,6 +36,7 @@
 * ⛽ "If you just work hard you will succeed" - 👎
 * 🎚️ Death by Powerpoint - 👎
 * 🥼 Requiring a doctorate and a PhD to understand how computers work - 👎
+* ❎ Banning someone for "Being too good" - 🖕
 
 <hr>
 
@@ -69,7 +70,7 @@
 * 🌚 Circadian Rhythm - 👍
 * 🧾 ICESCR Arts., 7, 8, 11, 25, UDHR Arts., 3, 21, 22, 23,- 👍
 * 💻 Taking apart and rebuilding computers to understand how they work - 👍
-
+* 🥇 Awarding and compensating hard work and high skill - 🫰
 
 [Data Points](https://docs.google.com/spreadsheets/d/131MGuLB5WRHA3Qhxq7s4_ceoHJxkRJUvwejDklVl0Cw/edit?usp=sharing)
 [Proxy Servers](2gg2i4uiuryvisyul3uaglhggovmqbntl5qfa4jhrg6xdouycjrwihad.onion)
