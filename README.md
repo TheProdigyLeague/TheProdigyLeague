@@ -31,7 +31,7 @@
 * 🏘️ Large Crowds - 👎
 * 🏦 Banks, Institutional Investors- 👎
 * 😈 Legal Crime - 👎
-* 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️ - 👎
+* 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️, priv't attorneys 👨‍⚖️ - 👎
 * 🏚️ Section 8, 230 - 👎
 * ⛽ "If you just work hard you will succeed" - 👎
 * 🎚️ Death by Powerpoint - 👎
@@ -58,7 +58,7 @@
 * 🗣️ Poes Law, Natural Law - 👍
 * 🤖 Net Nuetrality - 👍
 * 💎 No Moral Absolutes - 👍
-* 🏴 Social Anarchy, Social Justice - 👍
+* 🏴 Social Anarchy, Social Justice, Vigilantism - 👍
 * ⛓️‍💥 Jails for CEO's - 👍
 * 👮 Jails for Politicians - 👍
 * 💰 Nonprofits - 👍
