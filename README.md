@@ -4,69 +4,69 @@
 * 🗃️ MSFT LinkedIn - 👎
 * 🕹️ Discord.gg, Valve, EA - 👎
 * 💱 AMZN, Twitch - 👎
-* 🛜 AWS S3 Bucket - 👎
+* 🛜 AWS S3 Bucket, DataDome, Datadog - 👎
 * 🛜 NET, Cloudflare - 👎
 * 🛜 AKAM GHost - 👎
-* 🖥️ META, Facebook - 👎
+* 🖥️ META, Facebook, Insta, WhatsApp, Metaverse - 👎
 * 💴 BIDU,☎️ Silicon Valley, 📱 Tiktok, Temu, Fintech - 👎
 * 🏢 Fortune 500 Venture Capital, Enterprise Hedge Funds - 👎
 * 👲 INTU, 💳 Credit Karma - 👎
-* 🚗 DASH, ✓ Survey Junkie - 👎
+* 🚗 DASH, ✓ Survey Junkie, 996 365 - 👎
 * 🇨🇭 CERN, Debtors Prisons - 👎
-* 🇺🇸 Consumer States - 👎
-* 🇻🇮 Gov't Contracts, Gov't Censorship - 👎
-* 👷🏽 Blue collar, labor camps - 👎
-* 🏫 School, Uni - 👎
+* 🇺🇸 Consumer States, Commercial States, Surveillance states, Uninhabitable States, anarcho-capitalism - 👎
+* 🇻🇮 Gov't Contracts, Gov't Censorship, Gov't Overreach - 👎
+* 👷🏽 Blue collar, labor camps, uneducated layman - 👎
+* 🏫 Public School, FAFSA, Uni - 👎
 * 🇨🇳, 🇻🇳, 🇰🇵, 🇯🇵, 🇰🇷 - 👎
-* 🎰 Shadow IT, Social Credit - 👎
+* 🎰 Shadow IT, Social Credit, Social Media - 👎
 * 🏭 Moores Law, Positive Law - 👎
-* 💸 Online Banking - 👎
-* 👔 Wagie, Slaving - 👎
+* 💸 Online Banking, nickel-and-diming, rigmarole, paper pushing - 👎
+* 👔 Proletariat, Wagie, Slaving - 👎
 * 👥 Friends, Relationships, Family - 👎
 * 💲 Taxation without representation - 👎
-* 🌝 RDDT - 👎
-* 💘 Dating apps - 👎
-* 🚓 Prison system - 👎
-* 👹 Loud, Hectic, Chaotic Evil - 👎
-* 🏘️ Large Crowds - 👎
-* 🏦 Banks, Institutional Investors- 👎
-* 😈 Legal Crime - 👎
-* 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️, priv't attorneys 👨‍⚖️ - 👎
-* 🏚️ Section 8, 230 - 👎
-* ⛽ "If you just work hard you will succeed" - 👎
-* 🎚️ Death by Powerpoint - 👎
+* 🌝 RDDT, SNAP, HUBS, APPL - 👎
+* 💘 Dating apps, data harvesting - 👎
+* 🚓 Prison system, "intake" programs - 👎
+* 👹 inandescent light, loud bangs, loud thuds, loud speaking, skullduggery - 👎
+* 🏘️ Large Crowds, defcon - 👎
+* 🏦 The Fed, Institutional Investors, HNWIs, hedgies- 👎
+* 😈 Legal Crime, bamboo ceiling - 👎
+* 🏫 Priv't School, 🏡 Priv't property, priv't business 🪪, priv't banks, priv't jets ✈️, priv't yachts ⛴️, priv't islands 🏝️, priv't attorneys 👨‍⚖️ - 👎
+* 🏚️ Sector 5, Section 8, 230 - 👎
+* ⛽ Zero-Income, "Just get a job", "If you just work hard you will succeed" - 👎
+* 🎚️ Death by Powerpoint, paper bombing - 👎
 * 🥼 Requiring a doctorate and a PhD to understand how computers work - 👎
-* ❎ Banning someone for "Being too good" - 🖕
+* ❎ Banning someone for "Being too good", implicit bias - 🖕
 
 <hr>
 
-* 🔪 Cutthroat - 👍
+* 🔪 Mental Health Advocate, Lay-flat, Public WiFi, Public Trading - 👍
 * 📈 Equity, Accessibility - 👍
-* 🕴🏽 Partnerships - 👍
-* 🪙 Crypto - 👍
-* 👤 Loner - 👍
-* ☠️ Main Character - 👍
+* 🕴🏽 Business Partnerships - 👍
+* 🪙 Crypto, anonymity - 👍
+* 👤 Loner, Documentary Journalism - 👍
+* ☠️ NIN, Radiohead, Eminem, Marilyn Manson, Main Character - 👍
 * 📞 Free and Open Source - 👍
 * 🏥 Basic Healthcare - 👍
-* 💵 Liveable Wages - 👍
-* 🛖 Basic food, housing - 👍
-* 🏢 Corporate accountability - 👍
+* 💵 Liveable Wages, Liveable environments - 👍
+* 🛖 Basic food, housing, transportation - 👍
+* 🏢 Corporate accountability, Gov't accountability - 👍
 * 🎖️ Gov't Social Safety Nets - 👍
 * 🪃 Liberal Arts, Programming, DB Mngmt - 👍
 * 🧑🏽‍💻 Web3, Dead Internet, AI - 👍
 * 🎮 E-sports, MLG - 👍
 * 🗣️ Poes Law, Natural Law - 👍
 * 🤖 Net Nuetrality - 👍
-* 💎 No Moral Absolutes - 👍
+* 💎 No Moral Absolutes, "By any means necessary", Plead the Fifth - 👍
 * 🏴 Social Anarchy, Social Justice, Vigilantism - 👍
 * ⛓️‍💥 Jails for CEO's - 👍
 * 👮 Jails for Politicians - 👍
-* 💰 Nonprofits - 👍
-* 🔤 Blockchain - 👍
-* 🗡️ MMORPGs, MOBAs - 👍
-* 🚖 Long Live Scam$ - 👍
-* 📚 Autodidact Autonomy, bookworm - 👍
-* 🤫 INTJ, Libertarian-Left, Progressive - 👍
+* 💰 Nonprofits, entrepreneurship - 👍
+* 🔤 Blockchain, Cloud Gaming, C&C, botnets - 👍
+* 🗡️ Trading Cards, MMORPGs, MOBAs - 👍
+* 🚖 Gig Economy, API Keys, Long Live Scam$ - 👍
+* 📚 Public Library, Autodidact Autonomy, learn by doing, bookworm - 👍
+* 🤫 INTJ, Libertarian-Left, Progressive, Liminal Systems - 👍
 * 🌚 Circadian Rhythm - 👍
 * 🧾 ICESCR Arts., 7, 8, 11, 25, UDHR Arts., 3, 21, 22, 23,- 👍
 * 💻 Taking apart and rebuilding computers to understand how they work - 👍
