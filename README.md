@@ -27,7 +27,7 @@
 * 🌝 RDDT, SNAP, HUBS, APPL - 👎
 * 💘 Dating apps, data harvesting - 👎
 * 🚓 Prison system, "intake" programs - 👎
-* 👹 inandescent light, loud bangs, loud thuds, loud speaking, skullduggery - 👎
+* 👹 Incandescent light, loud bangs, loud thuds, loud speaking, skullduggery - 👎
 * 🏘️ Large Crowds, defcon - 👎
 * 🏦 The Fed, Institutional Investors, HNWIs, hedgies- 👎
 * 😈 Legal Crime, bamboo ceiling - 👎
