@@ -4,7 +4,7 @@
 * 🗃️ MSFT LinkedIn - 👎
 * 🕹️ Discord.gg, Valve, EA - 👎
 * 💱 AMZN, Twitch - 👎
-* 🛜 AWS S3 Bucket, DataDome, Datadog - 👎
+* 🛜 AWS S3 Bucket, DataDome, DDOG - 👎
 * 🛜 NET, Cloudflare - 👎
 * 🛜 AKAM GHost - 👎
 * 🖥️ META, Facebook, Insta, WhatsApp, Metaverse - 👎
